@@ -8,4 +8,4 @@
   <sub>Scan to open this repository</sub>
 </p>
 
-Here is the link with other resources: [OneNote](https://vsb-my.sharepoint.com/:o:/r/personal/bel0195_vsb_cz/Documents/Notebooks/ICQ_cvika_2025_2026_zima?d=w8a7adc1fd1914eaebd249c2cefd4f399&csf=1&web=1&e=5MWOfh).
+Here is the link with other resources: [OneNote](https://vsb-my.sharepoint.com/:o:/g/personal/bel0195_vsb_cz/IgB4LtOJDUb8RIDuevI_7ormAbnwzqsQ0dO7QJFvZ0K3Q6s?e=PPGBv2).
