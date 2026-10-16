@@ -9,4 +9,5 @@
 </p>
 
 Here is the link with notes from exercises: [OneNote](https://vsb-my.sharepoint.com/:o:/g/personal/bel0195_vsb_cz/IgB4LtOJDUb8RIDuevI_7ormAbnwzqsQ0dO7QJFvZ0K3Q6s?e=PPGBv2).
+
 Here is the link to textbook in Czech (work in progress, regularly updated): [prof. Lampart webpage](https://homel.vsb.cz/~lam05/Teaching_files/UKP.pdf).
